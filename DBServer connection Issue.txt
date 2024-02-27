@@ -1,0 +1,1 @@
+program tvrdi ze pripojeni na sql server kantnerove neni bezpecne ¯\_(ツ)_/¯

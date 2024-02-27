@@ -1,0 +1,63 @@
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\DS PROJECT 2.0.exe
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\DS PROJECT 2.0.deps.json
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\DS PROJECT 2.0.runtimeconfig.json
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\DS PROJECT 2.0.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\DS PROJECT 2.0.pdb
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\obj\Debug\net7.0\DS PROJECT 2.0.GeneratedMSBuildEditorConfig.editorconfig
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\obj\Debug\net7.0\DS PROJECT 2.0.AssemblyInfoInputs.cache
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\obj\Debug\net7.0\DS PROJECT 2.0.AssemblyInfo.cs
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\obj\Debug\net7.0\DS PROJECT 2.0.csproj.CoreCompileInputs.cache
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\obj\Debug\net7.0\DS PROJECT 2.0.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\obj\Debug\net7.0\refint\DS PROJECT 2.0.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\obj\Debug\net7.0\DS PROJECT 2.0.pdb
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\obj\Debug\net7.0\DS PROJECT 2.0.genruntimeconfig.cache
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\obj\Debug\net7.0\ref\DS PROJECT 2.0.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\DS PROJECT 2.0.dll.config
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Azure.Core.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Azure.Identity.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Humanizer.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\System.CodeDom.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\System.Memory.Data.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\System.Text.Json.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\obj\Debug\net7.0\DS PROJECT 2.0.csproj.AssemblyReference.cache
+D:\zýžarp RIDERA\DS PROJECT 2.0\DS PROJECT 2.0\obj\Debug\net7.0\DS PROJECT 2.0.csproj.CopyComplete

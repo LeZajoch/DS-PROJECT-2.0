@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Objects>
+    <Data>
+        <CustomerID>2</CustomerID>
+        <CustomerName>Peter</CustomerName>
+        <Surname>Wackel</Surname>
+        <Address>Ostereich</Address>
+        <Email>P.Wackel@dbschenker.at</Email>
+        <Telephone>123853933</Telephone>
+
+    </Data>
+</Objects>

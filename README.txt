@@ -1,0 +1,1 @@
+Program is run in command line and only requires user to write numbers and data you want to add to DBserver.
